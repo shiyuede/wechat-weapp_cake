@@ -10,7 +10,7 @@
   </swiper>
   <view class="selected">
     <view class="select-title">
-      <text>人气排行</text>
+      <text>美味美食</text>
     </view>
     <view class="select-bottom">
       <navigator url="list/list">
@@ -20,7 +20,7 @@
   </view>
   <view class="newest">
     <view class="newest-title">
-      <text>最近新品</text>
+      <text>七夕爆款</text>
     </view>
     <view class="newest-box">
       <block wx:for="{{productlists.homelist}}"  wx:for-item="product" wx:key="*this">

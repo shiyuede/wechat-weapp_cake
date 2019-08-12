@@ -2,58 +2,58 @@ var localdata =[
   {
     "id": "guowei",
     "banner": "/image/c1.png",
-    "cate": "经典系列",
+    "cate": "粉泡泡系列",
     "detail": [
       {
         "thumb": "/image/c2.png",
-        "name": "经典1"
+        "name": "粉泡泡1"
       },
       {
         "thumb": "/image/c3.png",
-        "name": "经典2"
+        "name": "粉泡泡2"
       },
       {
         "thumb": "/image/c4.png",
-        "name": "经典3"
+        "name": "粉泡泡3"
       },
       {
         "thumb": "/image/c4.png",
-        "name": "经典4"
+        "name": "粉泡泡4"
       },
       {
         "thumb": "/image/c3.png",
-        "name": "经典5"
+        "name": "粉泡泡5"
       },
       {
         "thumb": "/image/c2.png",
-        "name": "经典6"
+        "name": "粉泡泡6"
       }
     ]
   },
   {
     "id": "shucai",
     "banner": "/image/c1.png",
-    "cate": "法式系列",
+    "cate": "冰点系列",
     "detail": [
       {
         "thumb": "/image/s4.png",
-        "name": "法式1"
+        "name": "冰点1"
       },
       {
         "thumb": "/image/s5.png",
-        "name": "法式2"
+        "name": "冰点2"
       },
       {
         "thumb": "/image/s6.png",
-        "name": "方式3"
+        "name": "冰点3"
       },
       {
         "thumb": "/image/s6.png",
-        "name": "法式4"
+        "name": "冰点4"
       },
       {
         "thumb": "/image/s5.png",
-        "name": "法式5"
+        "name": "冰点5"
       },
       {
         "thumb": "/image/s4.png",
@@ -157,31 +157,31 @@ var localdata =[
   {
     "id": "danfan",
     "banner": "/image/c1.png",
-    "cate": "新年系列",
+    "cate": "七夕系列",
     "detail": [
       {
         "thumb": "/image/s4.png",
-        "name": "新年1"
+        "name": "七夕1"
       },
       {
         "thumb": "/image/s5.png",
-        "name": "新年2"
+        "name": "七夕2"
       },
       {
         "thumb": "/image/s6.png",
-        "name": "新年3"
+        "name": "七夕3"
       },
       {
         "thumb": "/image/s6.png",
-        "name": "新年4"
+        "name": "七夕4"
       },
       {
         "thumb": "/image/s5.png",
-        "name": "新年5"
+        "name": "七夕5"
       },
       {
         "thumb": "/image/s4.png",
-        "name": "新年6"
+        "name": "七夕6"
       }
     ]
   }

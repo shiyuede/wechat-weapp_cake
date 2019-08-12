@@ -6,7 +6,7 @@
     line-height: 100rpx;
     padding:30rpx 30rpx 30rpx 150rpx;
     box-sizing: border-box;
-    background: #87d0e3;
+    background: rgb(240, 171, 171);
     font-size: 28rpx;
     color: #fff;
     border-top:1rpx solid #e9e9e9;

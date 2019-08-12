@@ -17,13 +17,13 @@ var localdata = {
     pid: 0,
   },
   {
-    title: "甜霜",
+    title: "马卡龙",
     imgSrc: "/image/HsweetCream.jpg",
     price: "16.00",
     pid: 1,
   },
   {
-    title: "北海道蛋糕",
+    title: "冰点蛋糕",
     imgSrc: "/image/Hhokaido.jpg",
     price: "36.00",
     pid: 2,

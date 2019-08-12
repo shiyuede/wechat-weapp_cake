@@ -3,12 +3,12 @@ var mockData = require('../../../data/catedetail.js');
 Page({
     data: {
         category: [
-            {name:'经典',id:'guowei'},
-            {name:'法式',id:'shucai'},
+            {name:'粉泡泡',id:'guowei'},
+            {name:'冰点',id:'shucai'},
             {name:'儿童',id:'chaohuo'},
             {name:'冰淇淋',id:'dianxin'},
             {name:'零食',id:'cucha'},
-            {name:'新年',id:'danfan'}
+            {name:'七夕',id:'danfan'}
         ],
         detail:[],
         curIndex: 0,

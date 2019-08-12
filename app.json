@@ -10,17 +10,17 @@
     "page/component/list/list"
   ],
   "window": {
-    "navigationBarTextStyle": "#ffffff",
-    "navigationBarTitleText": "石头烘焙坊",
-    "navigationBarBackgroundColor": "#87d0e3",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "每味美鲜",
+    "navigationBarBackgroundColor": "#ff9999",
     "backgroundColor": "#eeeeee",
     "enablePullDownRefresh": true
   },
   "tabBar": {
     "color": "#b7b7b7",
-    "selectedColor": "#87d0e3",
-    "borderStyle": "#f5f5f5",
-    "backgroundColor": "#f5f5f5",
+    "selectedColor": "#ff6666",
+    "borderStyle": "black",
+    "backgroundColor": "#ff9999",
     "list": [
       {
         "pagePath": "page/component/index",
